@@ -13,6 +13,7 @@ Ophthalmology Journals and the requirements for submittion
 |Nature Biomedical Engineering| 26.8 |[CurrentIssue](https://onlinelibrary.wiley.com/journal/14429071)|[ForAuthors](https://www.nature.com/natbiomedeng/submission-guidelines)|
 |Progress in Retinal and Eye Research| 18.6 |[CurrentIssue](https://www.sciencedirect.com/journal/progress-in-retinal-and-eye-research/vol/103/suppl/C)|[ForAuthors](https://www.sciencedirect.com/journal/progress-in-retinal-and-eye-research/publish/guide-for-authors)|
 |Ophthalmology| 13.1 |[CurrentIssue](https://www.aaojournal.org/current)|[ForAuthors](https://www.aaojournal.org/content/authorinfo)|
+|JAMA Ophthalmology| 7.8 |[CurrentIssue](https://jamanetwork.com/journals/jamaophthalmology/currentissue)|[ForAuthors](https://jamanetwork.com/journals/jamaophthalmology/pages/for-authors)|
 |Scientific Data| 5.8 |[CurrentIssue](https://www.nature.com/sdata/research-articles)|[ForAuthors](https://www.nature.com/sdata/author-instructions)|
 |Survey of Ophthalmology| 5.1 |[CurrentIssue](https://www.sciencedirect.com/journal/survey-of-ophthalmology/vol/69/issue/6)|[ForAuthors](https://www.sciencedirect.com/journal/survey-of-ophthalmology/publish/guide-for-authors)|
 |Investigative Ophthalmology & Visual Science (IOVS)| 5.0 |[CurrentIssue](https://iovs.arvojournals.org/issues.aspx#issueid=0)|[ForAuthors](https://iovs.arvojournals.org/ss/forauthors.aspx)|
